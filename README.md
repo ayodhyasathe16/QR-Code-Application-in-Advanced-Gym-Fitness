@@ -19,7 +19,7 @@ codes are clear: to build direct connections with customers and collect the data
 <img src="Screenshorts/login.PNG"><br><br>
   
 Home Page <br><br>
-<img src="Screenshorts/home.png"><br><br>
+<img src="https://github.com/ayodhyasathe16/QR-Code-Application-in-Advanced-Gym-Fitness/blob/main/Screenshorts/home.png"><br><br>
   
 About Us <br><br>
 <img src="Screenshorts/about.PNG"><br><br>
