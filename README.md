@@ -16,25 +16,23 @@ is used and the data transfer rate also increases and a lot of time is saved. Th
 codes are clear: to build direct connections with customers and collect the data<br>
 
 <b>Login Page<br><br>
-<img src="Screenshorts/login.PNG"><br><br>
+<img src="ScreenShorts/login.PNG"><br><br>
   
 Home Page <br><br>
-<img src="Screenshorts/home.png"><br><br>
+<img src="ScreenShorts/home.png"><br><br>
   
-About Us <br><br>
-<img src="Screenshorts/about.PNG"><br><br>
-  
+
 QR Creation Page <br><br>
-<img src="Screenshorts/QRCreation.PNG"><br><br>
+<img src="ScreenShorts/QRCreation.PNG"><br><br>
   
 Save QR Page <br><br>
-<img src="Screenshorts/saveQR.PNG"><br><br>
+<img src="ScreenShorts/saveQR.PNG"><br><br>
   
 QR Decode Page <br><br>
-<img src="Screenshorts/decodeQR.PNG"><br><br>
+<img src="ScreenShorts/decodeQR.PNG"><br><br>
   
 Equipment Details Page <br><br>
-<img src="Screenshorts/equipment_detail.JPG"><br><br>
+<img src="ScreenShorts/equipment_detail.JPG"><br><br>
 
 
 
