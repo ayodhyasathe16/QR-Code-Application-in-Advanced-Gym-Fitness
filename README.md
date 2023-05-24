@@ -33,7 +33,8 @@ Save QR Page <br><br>
 QR Decode Page <br><br>
 <img src="Screenshorts/decodeQR.PNG"><br><br>
   
-
+Equipment Details Page <br><br>
+<img src="Screenshorts/equipment_details.PNG"><br><br>
 
 
 
